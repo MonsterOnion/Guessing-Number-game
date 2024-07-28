@@ -1,0 +1,15 @@
+E:\Projects\NumberGuessing\obj\Debug\net6.0\NumberGuessing.csproj.AssemblyReference.cache
+E:\Projects\NumberGuessing\obj\Debug\net6.0\NumberGuessing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\NumberGuessing\obj\Debug\net6.0\NumberGuessing.AssemblyInfoInputs.cache
+E:\Projects\NumberGuessing\obj\Debug\net6.0\NumberGuessing.AssemblyInfo.cs
+E:\Projects\NumberGuessing\obj\Debug\net6.0\NumberGuessing.csproj.CoreCompileInputs.cache
+E:\Projects\NumberGuessing\bin\Debug\net6.0\NumberGuessing.exe
+E:\Projects\NumberGuessing\bin\Debug\net6.0\NumberGuessing.deps.json
+E:\Projects\NumberGuessing\bin\Debug\net6.0\NumberGuessing.runtimeconfig.json
+E:\Projects\NumberGuessing\bin\Debug\net6.0\NumberGuessing.dll
+E:\Projects\NumberGuessing\bin\Debug\net6.0\NumberGuessing.pdb
+E:\Projects\NumberGuessing\obj\Debug\net6.0\NumberGuessing.dll
+E:\Projects\NumberGuessing\obj\Debug\net6.0\refint\NumberGuessing.dll
+E:\Projects\NumberGuessing\obj\Debug\net6.0\NumberGuessing.pdb
+E:\Projects\NumberGuessing\obj\Debug\net6.0\NumberGuessing.genruntimeconfig.cache
+E:\Projects\NumberGuessing\obj\Debug\net6.0\ref\NumberGuessing.dll
